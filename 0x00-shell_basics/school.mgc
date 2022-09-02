@@ -1,2 +1,3 @@
 #!/bin/bash
-mv school.mgc school
+0 string SCHOOL School data
+!:mine School
